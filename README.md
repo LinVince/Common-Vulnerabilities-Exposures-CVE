@@ -1,4 +1,4 @@
-# Common-Vulnerability-Exposure-CVE
+# Common-Vulnerabilities-Exposures-CVE
 ![image](https://github.com/LinVince/Common-Vulnerability-Exposure-CVE/blob/main/screenshot_cve.png?raw=true)
 CVE Database Guidelines
 1. 1999-2018的 CVE公開漏洞已彙整成數據庫（如圖），因目前尚未開發User Interface，因此暫時使用 SQLite來進行查詢、過濾、統計及分析。 可至以下網站下載 SQLite。http://sqlitebrowser.org/
